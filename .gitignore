@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# Test files
+1.png
+test*.jpg
+debug-snap.jpg
+
+# Temporary files
+*.tmp
+*.log
